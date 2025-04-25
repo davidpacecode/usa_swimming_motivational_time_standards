@@ -1,0 +1,214 @@
+age_group,gender,distance,stroke,course,tags_time,bonus_time
+10 & under,boys,50,fr,scy,29.99,30.39
+10 & under,boys,100,fr,scy,64.99,66.19
+10 & under,boys,200,fr,scy,141.99,143.19
+10 & under,boys,500,fr,scy,378.09,384.79
+10 & under,boys,50,bk,scy,34.59,35.39
+10 & under,boys,100,bk,scy,74.19,75.79
+10 & under,boys,50,br,scy,40.29,40.89
+10 & under,boys,100,br,scy,87.59,88.99
+10 & under,boys,50,fly,scy,33.29,33.79
+10 & under,boys,100,fly,scy,76.89,78.79
+10 & under,boys,100,im,scy,75.19,76.09
+10 & under,boys,200,im,scy,160.49,163.69
+10 & under,boys,200,fr_r,scy,124.19
+10 & under,boys,400,fr_r,scy,275.69
+10 & under,boys,200,mr,scy,140.49
+11-12,boys,50,fr,scy,25.99,26.39
+11-12,boys,100,fr,scy,55.79,56.49
+11-12,boys,200,fr,scy,121.99,122.69
+11-12,boys,500,fr,scy,328.49,332.19
+11-12,boys,50,bk,scy,30.19,30.49
+11-12,boys,100,bk,scy,64.69,64.99
+11-12,boys,200,bk,scy,137.99,140.09
+11-12,boys,50,br,scy,34.09,34.49
+11-12,boys,100,br,scy,74.99,75.79
+11-12,boys,200,br,scy,158.49,161.89
+11-12,boys,50,fly,scy,28.49,28.69
+11-12,boys,100,fly,scy,63.29,64.09
+11-12,boys,200,fly,scy,142.39,143.89
+11-12,boys,100,im,scy,64.59,65.79
+11-12,boys,200,im,scy,138.59,139.79
+11-12,boys,200,fr_r,scy,106.79
+11-12,boys,400,fr_r,scy,235.59
+11-12,boys,200,mr,scy,119.19
+11-12,boys,400,mr,scy,264.59
+13-14,boys,50,fr,scy,23.39,23.69
+13-14,boys,100,fr,scy,50.69,51.19
+13-14,boys,200,fr,scy,109.59,110.09
+13-14,boys,500,fr,scy,294.29,296.19
+13-14,boys,1000,fr,scy,612.89,616.99
+13-14,boys,1650,fr,scy,1030.09,1038.29
+13-14,boys,100,bk,scy,55.69,56.99
+13-14,boys,200,bk,scy,121.99,122.89
+13-14,boys,100,br,scy,63.99,64.39
+13-14,boys,200,br,scy,137.19,139.89
+13-14,boys,100,fly,scy,55.09,55.49
+13-14,boys,200,fly,scy,122.59,124.09
+13-14,boys,200,im,scy,123.69,124.19
+13-14,boys,400,im,scy,263.59,264.99
+13-14,boys,200,fr_r,scy,95.09
+13-14,boys,400,fr_r,scy,206.79
+13-14,boys,800,fr_r,scy,455.99
+13-14,boys,200,mr,scy,104.99
+13-14,boys,400,mr,scy,230.89
+13-14,girls,50,fr,scy,25.29,25.79
+13-14,girls,100,fr,scy,54.19,54.79
+13-14,girls,200,fr,scy,116.99,117.39
+13-14,girls,500,fr,scy,313.59,315.39
+13-14,girls,1000,fr,scy,656.29,659.29
+13-14,girls,1650,fr,scy,1094.49,1102.89
+13-14,girls,100,bk,scy,60.29,61.29
+13-14,girls,200,bk,scy,129.99,130.89
+13-14,girls,100,br,scy,69.19,70.49
+13-14,girls,200,br,scy,149.59,152.99
+13-14,girls,100,fly,scy,59.49,60.59
+13-14,girls,200,fly,scy,133.09,136.19
+13-14,girls,200,im,scy,133.39,134.99
+13-14,girls,400,im,scy,281.99,286.59
+13-14,girls,200,fr_r,scy,102.29
+13-14,girls,400,fr_r,scy,222.69
+13-14,girls,800,fr_r,scy,480.19
+13-14,girls,200,mr,scy,113.19
+13-14,girls,400,mr,scy,248.19
+11-12,girls,50,fr,scy,26.99,27.39
+11-12,girls,100,fr,scy,57.59,57.99
+11-12,girls,200,fr,scy,123.99,125.49
+11-12,girls,500,fr,scy,331.19,334.39
+11-12,girls,50,bk,scy,30.69,30.89
+11-12,girls,100,bk,scy,65.39,65.99
+11-12,girls,200,bk,scy,140.89,142.09
+11-12,girls,50,br,scy,34.69,35.19
+11-12,girls,100,br,scy,75.39,76.49
+11-12,girls,200,br,scy,161.29,162.19
+11-12,girls,50,fly,scy,28.99,29.29
+11-12,girls,100,fly,scy,64.79,65.39
+11-12,girls,200,fly,scy,145.99,147.69
+11-12,girls,100,im,scy,65.89,66.39
+11-12,girls,200,im,scy,140.59,141.59
+11-12,girls,200,fr_r,scy,107.69
+11-12,girls,400,fr_r,scy,236.09
+11-12,girls,200,mr,scy,119.89
+11-12,girls,400,mr,scy,264.29
+10 & under,girls,50,fr,scy,30.49,30.99
+10 & under,girls,100,fr,scy,66.19,66.89
+10 & under,girls,200,fr,scy,140.29,143.29
+10 & under,girls,500,fr,scy,376.99,383.39
+10 & under,girls,50,bk,scy,34.69,35.19
+10 & under,girls,100,bk,scy,74.19,75.69
+10 & under,girls,50,br,scy,39.99,40.59
+10 & under,girls,100,br,scy,86.99,87.79
+10 & under,girls,50,fly,scy,33.39,34.09
+10 & under,girls,100,fly,scy,76.39,78.89
+10 & under,girls,100,im,scy,74.99,76.29
+10 & under,girls,200,im,scy,160.99,162.69
+10 & under,girls,200,fr_r,scy,123.59
+10 & under,girls,400,fr_r,scy,274.79
+10 & under,girls,200,mr,scy,138.59
+age_group,gender,distance,stroke,course,tags_time,bonus_time
+10 & under,boys,50,fr,scy,29.99,30.39
+10 & under,boys,100,fr,scy,64.99,66.19
+10 & under,boys,200,fr,scy,141.99,143.19
+10 & under,boys,500,fr,scy,378.09,384.79
+10 & under,boys,50,bk,scy,34.59,35.39
+10 & under,boys,100,bk,scy,74.19,75.79
+10 & under,boys,50,br,scy,40.29,40.89
+10 & under,boys,100,br,scy,87.59,88.99
+10 & under,boys,50,fly,scy,33.29,33.79
+10 & under,boys,100,fly,scy,76.89,78.79
+10 & under,boys,100,im,scy,75.19,76.09
+10 & under,boys,200,im,scy,160.49,163.69
+10 & under,boys,200,fr_r,scy,124.19
+10 & under,boys,400,fr_r,scy,275.69
+10 & under,boys,200,mr,scy,140.49
+11-12,boys,50,fr,scy,25.99,26.39
+11-12,boys,100,fr,scy,55.79,56.49
+11-12,boys,200,fr,scy,121.99,122.69
+11-12,boys,500,fr,scy,328.49,332.19
+11-12,boys,50,bk,scy,30.19,30.49
+11-12,boys,100,bk,scy,64.69,64.99
+11-12,boys,200,bk,scy,137.99,140.09
+11-12,boys,50,br,scy,34.09,34.49
+11-12,boys,100,br,scy,74.99,75.79
+11-12,boys,200,br,scy,158.49,161.89
+11-12,boys,50,fly,scy,28.49,28.69
+11-12,boys,100,fly,scy,63.29,64.09
+11-12,boys,200,fly,scy,142.39,143.89
+11-12,boys,100,im,scy,64.59,65.79
+11-12,boys,200,im,scy,138.59,139.79
+11-12,boys,200,fr_r,scy,106.79
+11-12,boys,400,fr_r,scy,235.59
+11-12,boys,200,mr,scy,119.19
+11-12,boys,400,mr,scy,264.59
+13-14,boys,50,fr,scy,23.39,23.69
+13-14,boys,100,fr,scy,50.69,51.19
+13-14,boys,200,fr,scy,109.59,110.09
+13-14,boys,500,fr,scy,294.29,296.19
+13-14,boys,1000,fr,scy,612.89,616.99
+13-14,boys,1650,fr,scy,1030.09,1038.29
+13-14,boys,100,bk,scy,55.69,56.99
+13-14,boys,200,bk,scy,121.99,122.89
+13-14,boys,100,br,scy,63.99,64.39
+13-14,boys,200,br,scy,137.19,139.89
+13-14,boys,100,fly,scy,55.09,55.49
+13-14,boys,200,fly,scy,122.59,124.09
+13-14,boys,200,im,scy,123.69,124.19
+13-14,boys,400,im,scy,263.59,264.99
+13-14,boys,200,fr_r,scy,95.09
+13-14,boys,400,fr_r,scy,206.79
+13-14,boys,800,fr_r,scy,455.99
+13-14,boys,200,mr,scy,104.99
+13-14,boys,400,mr,scy,230.89
+13-14,girls,50,fr,scy,25.29,25.79
+13-14,girls,100,fr,scy,54.19,54.79
+13-14,girls,200,fr,scy,116.99,117.39
+13-14,girls,500,fr,scy,313.59,315.39
+13-14,girls,1000,fr,scy,656.29,659.29
+13-14,girls,1650,fr,scy,1094.49,1102.89
+13-14,girls,100,bk,scy,60.29,61.29
+13-14,girls,200,bk,scy,129.99,130.89
+13-14,girls,100,br,scy,69.19,70.49
+13-14,girls,200,br,scy,149.59,152.99
+13-14,girls,100,fly,scy,59.49,60.59
+13-14,girls,200,fly,scy,133.09,136.19
+13-14,girls,200,im,scy,133.39,134.99
+13-14,girls,400,im,scy,281.99,286.59
+13-14,girls,200,fr_r,scy,102.29
+13-14,girls,400,fr_r,scy,222.69
+13-14,girls,800,fr_r,scy,480.19
+13-14,girls,200,mr,scy,113.19
+13-14,girls,400,mr,scy,248.19
+11-12,girls,50,fr,scy,26.99,27.39
+11-12,girls,100,fr,scy,57.59,57.99
+11-12,girls,200,fr,scy,123.99,125.49
+11-12,girls,500,fr,scy,331.19,334.39
+11-12,girls,50,bk,scy,30.69,30.89
+11-12,girls,100,bk,scy,65.39,65.99
+11-12,girls,200,bk,scy,140.89,142.09
+11-12,girls,50,br,scy,34.69,35.19
+11-12,girls,100,br,scy,75.39,76.49
+11-12,girls,200,br,scy,161.29,162.19
+11-12,girls,50,fly,scy,28.99,29.29
+11-12,girls,100,fly,scy,64.79,65.39
+11-12,girls,200,fly,scy,145.99,147.69
+11-12,girls,100,im,scy,65.89,66.39
+11-12,girls,200,im,scy,140.59,141.59
+11-12,girls,200,fr_r,scy,107.69
+11-12,girls,400,fr_r,scy,236.09
+11-12,girls,200,mr,scy,119.89
+11-12,girls,400,mr,scy,264.29
+10 & under,girls,50,fr,scy,30.49,30.99
+10 & under,girls,100,fr,scy,66.19,66.89
+10 & under,girls,200,fr,scy,140.29,143.29
+10 & under,girls,500,fr,scy,376.99,383.39
+10 & under,girls,50,bk,scy,34.69,35.19
+10 & under,girls,100,bk,scy,74.19,75.69
+10 & under,girls,50,br,scy,39.99,40.59
+10 & under,girls,100,br,scy,86.99,87.79
+10 & under,girls,50,fly,scy,33.39,34.09
+10 & under,girls,100,fly,scy,76.39,78.89
+10 & under,girls,100,im,scy,74.99,76.29
+10 & under,girls,200,im,scy,160.99,162.69
+10 & under,girls,200,fr_r,scy,123.59
+10 & under,girls,400,fr_r,scy,274.79
+10 & under,girls,200,mr,scy,138.59

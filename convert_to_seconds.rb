@@ -1,6 +1,6 @@
 #!/home/dsp2/.local/share/mise/installs/ruby/3.3.4/bin/ruby
 
-File.open('tags_time_cuts_lcm.txt', 'r') do |file|
+File.open('tags_time_cuts_scy_original.csv', 'r') do |file|
   file.each_line do |line|
     line.split(',').each do |item|
       if item.include?(":")

@@ -1,0 +1,107 @@
+age_group,gender,distance,stroke,course,tags_time,bonus_time
+10 & under,boys,50,fr,scy,29.99,30.39
+10 & under,boys,100,fr,scy,1:04.99,1:06.19
+10 & under,boys,200,fr,scy,2:21.99,2:23.19
+10 & under,boys,500,fr,scy,6:18.09,6:24.79
+10 & under,boys,50,bk,scy,34.59,35.39
+10 & under,boys,100,bk,scy,1:14.19,1:15.79
+10 & under,boys,50,br,scy,40.29,40.89
+10 & under,boys,100,br,scy,1:27.59,1:28.99
+10 & under,boys,50,fly,scy,33.29,33.79
+10 & under,boys,100,fly,scy,1:16.89,1:18.79
+10 & under,boys,100,im,scy,1:15.19,1:16.09
+10 & under,boys,200,im,scy,2:40.49,2:43.69
+10 & under,boys,200,fr_r,scy,2:04.19
+10 & under,boys,400,fr_r,scy,4:35.69
+10 & under,boys,200,mr,scy,2:20.49
+11-12,boys,50,fr,scy,25.99,26.39
+11-12,boys,100,fr,scy,55.79,56.49
+11-12,boys,200,fr,scy,2:01.99,2:02.69
+11-12,boys,500,fr,scy,5:28.49,5:32.19
+11-12,boys,50,bk,scy,30.19,30.49
+11-12,boys,100,bk,scy,1:04.69,1:04.99
+11-12,boys,200,bk,scy,2:17.99,2:20.09
+11-12,boys,50,br,scy,34.09,34.49
+11-12,boys,100,br,scy,1:14.99,1:15.79
+11-12,boys,200,br,scy,2:38.49,2:41.89
+11-12,boys,50,fly,scy,28.49,28.69
+11-12,boys,100,fly,scy,1:03.29,1:04.09
+11-12,boys,200,fly,scy,2:22.39,2:23.89
+11-12,boys,100,im,scy,1:04.59,1:05.79
+11-12,boys,200,im,scy,2:18.59,2:19.79
+11-12,boys,200,fr_r,scy,1:46.79
+11-12,boys,400,fr_r,scy,3:55.59
+11-12,boys,200,mr,scy,1:59.19
+11-12,boys,400,mr,scy,4:24.59
+13-14,boys,50,fr,scy,23.39,23.69
+13-14,boys,100,fr,scy,50.69,51.19
+13-14,boys,200,fr,scy,1:49.59,1:50.09
+13-14,boys,500,fr,scy,4:54.29,4:56.19
+13-14,boys,1000,fr,scy,10:12.89,10:16.99
+13-14,boys,1650,fr,scy,17:10.09,17:18.29
+13-14,boys,100,bk,scy,55.69,56.99
+13-14,boys,200,bk,scy,2:01.99,2:02.89
+13-14,boys,100,br,scy,1:03.99,1:04.39
+13-14,boys,200,br,scy,2:17.19,2:19.89
+13-14,boys,100,fly,scy,55.09,55.49
+13-14,boys,200,fly,scy,2:02.59,2:04.09
+13-14,boys,200,im,scy,2:03.69,2:04.19
+13-14,boys,400,im,scy,4:23.59,4:24.99
+13-14,boys,200,fr_r,scy,1:35.09
+13-14,boys,400,fr_r,scy,3:26.79
+13-14,boys,800,fr_r,scy,7:35.99
+13-14,boys,200,mr,scy,1:44.99
+13-14,boys,400,mr,scy,3:50.89
+13-14,girls,50,fr,scy,25.29,25.79
+13-14,girls,100,fr,scy,54.19,54.79
+13-14,girls,200,fr,scy,1:56.99,1:57.39
+13-14,girls,500,fr,scy,5:13.59,5:15.39
+13-14,girls,1000,fr,scy,10:56.29,10:59.29
+13-14,girls,1650,fr,scy,18:14.49,18:22.89
+13-14,girls,100,bk,scy,1:00.29,1:01.29
+13-14,girls,200,bk,scy,2:09.99,2:10.89
+13-14,girls,100,br,scy,1:09.19,1:10.49
+13-14,girls,200,br,scy,2:29.59,2:32.99
+13-14,girls,100,fly,scy,59.49,1:00.59
+13-14,girls,200,fly,scy,2:13.09,2:16.19
+13-14,girls,200,im,scy,2:13.39,2:14.99
+13-14,girls,400,im,scy,4:41.99,4:46.59
+13-14,girls,200,fr_r,scy,1:42.29
+13-14,girls,400,fr_r,scy,3:42.69
+13-14,girls,800,fr_r,scy,8:00.19
+13-14,girls,200,mr,scy,1:53.19
+13-14,girls,400,mr,scy,4:08.19
+11-12,girls,50,fr,scy,26.99,27.39
+11-12,girls,100,fr,scy,57.59,57.99
+11-12,girls,200,fr,scy,2:03.99,2:05.49
+11-12,girls,500,fr,scy,5:31.19,5:34.39
+11-12,girls,50,bk,scy,30.69,30.89
+11-12,girls,100,bk,scy,1:05.39,1:05.99
+11-12,girls,200,bk,scy,2:20.89,2:22.09
+11-12,girls,50,br,scy,34.69,35.19
+11-12,girls,100,br,scy,1:15.39,1:16.49
+11-12,girls,200,br,scy,2:41.29,2:42.19
+11-12,girls,50,fly,scy,28.99,29.29
+11-12,girls,100,fly,scy,1:04.79,1:05.39
+11-12,girls,200,fly,scy,2:25.99,2:27.69
+11-12,girls,100,im,scy,1:05.89,1:06.39
+11-12,girls,200,im,scy,2:20.59,2:21.59
+11-12,girls,200,fr_r,scy,1:47.69
+11-12,girls,400,fr_r,scy,3:56.09
+11-12,girls,200,mr,scy,1:59.89
+11-12,girls,400,mr,scy,4:24.29
+10 & under,girls,50,fr,scy,30.49,30.99
+10 & under,girls,100,fr,scy,1:06.19,1:06.89
+10 & under,girls,200,fr,scy,2:20.29,2:23.29
+10 & under,girls,500,fr,scy,6:16.99,6:23.39
+10 & under,girls,50,bk,scy,34.69,35.19
+10 & under,girls,100,bk,scy,1:14.19,1:15.69
+10 & under,girls,50,br,scy,39.99,40.59
+10 & under,girls,100,br,scy,1:26.99,1:27.79
+10 & under,girls,50,fly,scy,33.39,34.09
+10 & under,girls,100,fly,scy,1:16.39,1:18.89
+10 & under,girls,100,im,scy,1:14.99,1:16.29
+10 & under,girls,200,im,scy,2:40.99,2:42.69
+10 & under,girls,200,fr_r,scy,2:03.59
+10 & under,girls,400,fr_r,scy,4:34.79
+10 & under,girls,200,mr,scy,2:18.59
